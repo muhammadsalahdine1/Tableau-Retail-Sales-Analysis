@@ -1,4 +1,8 @@
 # Tableau-Retail-Sales-Analysis
+<div>
+<img src="https://github.com/muhammadsalahdine1/Tableau-Retail-Sales-Analysis/blob/main/4.PNG" width="500">
+<img src="https://github.com/muhammadsalahdine1/Tableau-Retail-Sales-Analysis/blob/main/5.PNG" width="500">
+<\div>
 
 ### 📊 Sales & Profit Performance Dashboard – Tableau Project
 #### 🧠 Project Overview
